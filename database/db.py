@@ -2,8 +2,8 @@ import pymongo
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 
-clust=MongoClient('mongodb+srv://aaditya:1234567890@cluster0.6qbpm.mongodb.net/resume_data?retryWrites=true&w=majority')
-db=clust['resume_data']
+clust=MongoClient(<put your db url here>)
+db=clust[<DB name here>]
 collection=db['resume_detail']
 
 
