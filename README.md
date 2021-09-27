@@ -19,4 +19,6 @@ Once it is executed , for testing we have to use the postman and on the postman,
 After execution, it will return the path or you can change it to files id as well.
 
 e.g ![alt text](https://user-images.githubusercontent.com/37104890/116814085-a05df400-ab74-11eb-8939-914258f930af.png)
+[alt text](https://github.com/Aadityapritam/File_upload_Api/blob/main/api_flow.png)
+
 
